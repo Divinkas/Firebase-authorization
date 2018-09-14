@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Авторизация</string>
+
+    <string name="mail">E-mail</string>
+    <string name="pass">Пароль</string>
+    <string name="open">Вход</string>
+    <string name="reg">Регистрация</string>
+</resources>
